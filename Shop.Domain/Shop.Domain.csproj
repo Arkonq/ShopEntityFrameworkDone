@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Qiwi" Version="1.0.12" />
+    <PackageReference Include="Qiwi.BillPayments.Json.Newtonsoft" Version="0.1.5" />
+  </ItemGroup>
+
+</Project>
